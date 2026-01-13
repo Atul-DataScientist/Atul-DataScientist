@@ -22,3 +22,5 @@
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/atul-gurav-54004176
 - Email: atul.bhandvalkar@gmail.com
+
+Data Analyst | Power BI Developer | SQL Developer | Data Scientist | Business Analyst | Python
