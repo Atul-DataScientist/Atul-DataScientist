@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Atul Gurav
 
-<!--
-**Atul-DataScientist/Atul-DataScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst / Data Scientist passionate about turning data into actionable insights.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Data Analysis: SQL, Excel, Python (Pandas, NumPy)
+- Visualization: Power BI, Matplotlib, Seaborn
+- Databases: MySQL, SQL Server
+- Machine Learning: Regression, Classification, Model Evaluation
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Power BI Sales Dashboard – Interactive business insights
+- SQL Hospital Management System – Database design & queries
+- Python Data Analysis – EDA and visualization
+- Machine Learning Projects – Predictive modeling
+
+## 📈 Currently Learning
+- Advanced Power BI (DAX, Performance Optimization)
+- Machine Learning & Statistics
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/atul-gurav-54004176
+- Email: atul.bhandvalkar@gmail.com
